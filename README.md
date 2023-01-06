@@ -4,7 +4,7 @@
 
 Leetcode profile : [https://leetcode.com/kartikjoshi267](https://leetcode.com/kartikjoshi267)
 
-Challenge Docs : [https://docs.google.com/document/u/0/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/mobilebasic](https://docs.google.com/document/u/0/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/mobilebasic)
+Challenge Docs : [https://docs.google.com/document/u/0/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM](https://docs.google.com/document/u/0/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM)
 
 _____
 ### Challenge Company 1 : Microsoft
